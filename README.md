@@ -37,7 +37,7 @@
 		        .error(R.drawable.error) //加载错误显示的图片
 		        .into(view);//图片显示的imageview
 
-  ###在AndroidManifest.xml中配置网络权限
+###在AndroidManifest.xml中配置网络权限
 
 	<uses-permission android:name="android.permission.INTERNET" />
 
