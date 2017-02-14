@@ -1,6 +1,8 @@
 # android图片加载框架Glide
 开源项目地址:[https://github.com/open-android/Glide](https://github.com/open-android/Glide)
 
+ PS：如果觉得文章太长，你也可观看该课程的[视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3bbffc6107ed&chapterId=8a2c9bed5a3a4c7e015a3aff408e0467&vId=8a2c9bed5a3a4c7e015a3b03c546046b&videoId=068DCD08470172549C33DC5901307461)，亲，里面还有高清，无码的福利喔
+
 # 运行效果
 
   ![](static/sample.png)
